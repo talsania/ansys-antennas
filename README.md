@@ -9,7 +9,7 @@
 ### Gain Plot:
 <img width="2399" height="1159" alt="p0-2" src="https://github.com/user-attachments/assets/34f55e7a-abf8-47d1-b4cb-f213824d2561" />
 
-### 3D Plot:
+### Far Fields Polar Plot:
 <img width="2403" height="1160" alt="p0-3" src="https://github.com/user-attachments/assets/91b2b055-33e9-4e48-b18a-0b36f3882582" />
 
 ## Project1
