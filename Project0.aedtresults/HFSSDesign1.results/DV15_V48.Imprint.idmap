@@ -1,0 +1,15 @@
+$begin 'imprintInfo'
+	FileVersion='2025R1'
+	$begin 'imprintIDMap'
+	$end 'imprintIDMap'
+	$begin 'PartsInfo'
+		Part(6, 'RadiatingSurface', -1, 6, 7, 9, 10, 11, 8, 12)
+		Part(34, 'Cylinder1', -1, 3, 37, 36, 35)
+		Part(44, 'Cylinder1_1', -1, 3, 47, 46, 45)
+		Part(51, 'Rectangle1', -1, 1, 61)
+	$end 'PartsInfo'
+	$begin 'PartAddtionalPiecesInfo'
+	$end 'PartAddtionalPiecesInfo'
+	$begin 'faceImprintInfo'
+	$end 'faceImprintInfo'
+$end 'imprintInfo'

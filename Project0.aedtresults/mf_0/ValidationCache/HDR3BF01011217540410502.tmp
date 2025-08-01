@@ -1,0 +1,22 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='H=\'23.600000000000001mm\''
+		Status=true
+		FileName='VI5F7A11532175404383630.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='H=\'25.960000000000001mm\''
+		Status=true
+		FileName='VI04192256017540567412.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='H=\'26mm\''
+		Status=true
+		FileName='VI545B11532175404296418.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='H=\'31.25mm\''
+		Status=true
+		FileName='VI3BF01011217540410503.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

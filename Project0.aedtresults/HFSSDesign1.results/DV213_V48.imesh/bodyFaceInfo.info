@@ -1,0 +1,74 @@
+$begin 'DesignData'
+	Version=242
+	$begin 'VariableValues'
+	$end 'VariableValues'
+	$begin 'PartsInfo'
+		Part(6, true, 'RadiatingSurface', true, 'vacuum', 6, 7, 9, 10, 11, 8, 12, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 255, 0, 0, false)
+		Part(34, true, 'Cylinder1', false, 'aluminum', 3, 37, 36, 35, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 143, 175, 143, false)
+		Part(44, true, 'Cylinder1_1', false, 'aluminum', 3, 47, 46, 45, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 143, 175, 143, false)
+		Part(51, false, 'Rectangle1', true, 'vacuum', 1, 61, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 143, 175, 143, false)
+	$end 'PartsInfo'
+	$begin 'FacesInfo'
+		Face(7, 6, 0.00745344, 345.333, true, -7.44772e-15, 0, 66.7667, 0, 0, 1, 4, 0.0431667, -0.0431667, 0.0667667, 0.0431667, 0.0431667, 0.0667667, -0.0431667, 0.0431667, 0.0667667, -0.0431667, -0.0431667, 0.0667667)
+		Face(8, 6, 0.00745344, 345.333, true, 7.44772e-15, 0, -66.7667, -0, -0, -1, 4, 0.0431667, -0.0431667, -0.0667667, -0.0431667, -0.0431667, -0.0667667, -0.0431667, 0.0431667, -0.0667667, 0.0431667, 0.0431667, -0.0667667)
+		Face(9, 6, 0.0115284, 439.733, true, 0, -43.1667, -9.63035e-15, -0, -1, -0, 4, 0.0431667, -0.0431667, 0.0667667, -0.0431667, -0.0431667, 0.0667667, -0.0431667, -0.0431667, -0.0667667, 0.0431667, -0.0431667, -0.0667667)
+		Face(10, 6, 0.0115284, 439.733, true, -43.1667, 0, 9.63035e-15, -1, -0, -0, 4, -0.0431667, -0.0431667, 0.0667667, -0.0431667, 0.0431667, 0.0667667, -0.0431667, 0.0431667, -0.0667667, -0.0431667, -0.0431667, -0.0667667)
+		Face(11, 6, 0.0115284, 439.733, true, 0, 43.1667, 9.63035e-15, 0, 1, 0, 4, -0.0431667, 0.0431667, 0.0667667, 0.0431667, 0.0431667, 0.0667667, 0.0431667, 0.0431667, -0.0667667, -0.0431667, 0.0431667, -0.0667667)
+		Face(12, 6, 0.0115284, 439.733, true, 43.1667, 0, -9.63035e-15, 1, 0, 0, 4, 0.0431667, 0.0431667, -0.0667667, 0.0431667, 0.0431667, 0.0667667, 0.0431667, -0.0431667, 0.0667667, 0.0431667, -0.0431667, -0.0667667)
+		Face(35, 34, 0.000222425, 18.8496, false, 0, 0, 0, -10, -10, -10, 0)
+		Face(36, 34, 7.06858e-06, 9.42478, true, 2.39661e-16, 2.8987e-32, 1.5, -0, -0, -1, 0)
+		Face(37, 34, 7.06858e-06, 9.42478, true, 2.39661e-16, 1.44935e-32, 25.1, 0, 0, 1, 0)
+		Face(45, 44, 0.000222425, 18.8496, false, 0, 0, 0, -10, -10, -10, 0)
+		Face(46, 44, 7.06858e-06, 9.42478, true, 2.39661e-16, -2.8987e-32, -1.5, 0, 0, 1, 0)
+		Face(47, 44, 7.06858e-06, 9.42478, true, 2.39661e-16, -1.44935e-32, -25.1, 0, 0, -1, 0)
+		Face(61, 51, 9e-06, 12, true, -2.21659e-16, -9.18485e-17, -3.03878e-16, 9.95799e-17, -1, 1.60812e-16, 4, -0.0015, 0, 0.0015, -0.0015, -4.82437e-19, -0.0015, 0.0015, -1.83697e-19, -0.0015, 0.0015, 2.9874e-19, 0.0015)
+	$end 'FacesInfo'
+	$begin 'PartAddtionalPiecesInfo'
+		$begin 'Bodies'
+		$end 'Bodies'
+		$begin 'Faces'
+		$end 'Faces'
+	$end 'PartAddtionalPiecesInfo'
+	$begin 'DesignGeometryInfo'
+		ModelUnit='mm'
+		ModelerType=2
+		MinDimensionInModelUnits=1e-06
+		MaxDimensionInModelUnits=10000
+		GlobalCSID=1
+		RegionID=6
+		PreprocessForwardIdStart=62
+		PreprocessForwardIdEnd=62
+		PreprocessBackwardIdStart=2147483647
+		PreprocessBackwardIdEnd=2147483647
+	$end 'DesignGeometryInfo'
+	$begin 'Point3DDefinitionInfo'
+	$end 'Point3DDefinitionInfo'
+	$begin 'Plane3DDefinitionInfo'
+		Plane(-4, 'Global:XY', 1, -1, true, 3014770, 0, 0, 0, 0, 0, 1)
+		Plane(-3, 'Global:YZ', 1, -1, true, 7864417, 0, 0, 0, 1, 0, 0)
+		Plane(-2, 'Global:XZ', 1, -1, true, 7471171, 0, 0, 0, 0, 1, 0)
+	$end 'Plane3DDefinitionInfo'
+	$begin 'CoordinateSystemInfo'
+		CoordinateSystem(1, 'Global', -1, false, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)
+	$end 'CoordinateSystemInfo'
+	$begin 'ComponentDefinitionInfo'
+	$end 'ComponentDefinitionInfo'
+	$begin 'ComponentInstanceInfo'
+	$end 'ComponentInstanceInfo'
+	$begin 'GeometryEntityListOperationInfo'
+		$begin 'EntityList'
+			ID=2
+			Name='AllObjects'
+			$begin 'GeometryEntityListParameters'
+				EntityType='Object'
+				EntityList(6, 34, 44, 51)
+			$end 'GeometryEntityListParameters'
+		$end 'EntityList'
+	$end 'GeometryEntityListOperationInfo'
+	$begin 'MaterialManager'
+		$begin 'ProjectMaterials'
+		$end 'ProjectMaterials'
+		$begin 'InternalPrivateMaterials'
+		$end 'InternalPrivateMaterials'
+	$end 'MaterialManager'
+$end 'DesignData'
