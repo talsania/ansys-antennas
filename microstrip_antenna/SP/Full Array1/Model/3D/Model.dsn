@@ -1,0 +1,298 @@
+*** File Version: 21.00
+
+Number of ports: 16
+Portnames: "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15" "16"
+Modenumbers: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+Porttypes: 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+Portlabels: "port1" "port1" "port1" "port1" "port1" "port1" "port1" "port1" "port1" "port1" "port1" "port1" "port1" "port1" "port1" "port1"
+StaticSources:
+ThermalSources:
+FloquetPortNames:
+FloquetPortModes:
+SchematicPortNames:
+SchematicPortLabels:
+Terminals:
+StaticToReferenceTable:
+ThermalToReferenceTable:
+TerminalToReferenceTable:
+PortToReferenceTable: "1" "Array$Element (1.1)$MWSSCHEM1'" "2" "Array$Element (2.1)$MWSSCHEM1'" "3" "Array$Element (3.1)$MWSSCHEM1'" "4" "Array$Element (4.1)$MWSSCHEM1'" "5" "Array$Element (1.2)$MWSSCHEM1'" "6" "Array$Element (2.2)$MWSSCHEM1'" "7" "Array$Element (3.2)$MWSSCHEM1'" "8" "Array$Element (4.2)$MWSSCHEM1'" "9" "Array$Element (1.3)$MWSSCHEM1'" "10" "Array$Element (2.3)$MWSSCHEM1'" "11" "Array$Element (3.3)$MWSSCHEM1'" "12" "Array$Element (4.3)$MWSSCHEM1'" "13" "Array$Element (1.4)$MWSSCHEM1'" "14" "Array$Element (2.4)$MWSSCHEM1'" "15" "Array$Element (3.4)$MWSSCHEM1'" "16" "Array$Element (4.4)$MWSSCHEM1'"
+FloquetToReferenceTable:
+SchematicToReferenceTable:
+StaticSourceGroups:
+ThermalSourceGroups:
+TerminalSourceGroups:
+PortSourceGroups: "Array$Element (1.1)$MWSSCHEM1" "l" "0" "1" "0" ";" "Array$Element (1.2)$MWSSCHEM1" "r" "0" "1" "4" ";" "Array$Element (1.3)$MWSSCHEM1" "l" "1" "1" "8" ";" "Array$Element (1.4)$MWSSCHEM1" "r" "1" "1" "12" ";" "Array$Element (2.1)$MWSSCHEM1" "l" "2" "1" "1" ";" "Array$Element (2.2)$MWSSCHEM1" "r" "2" "1" "5" ";" "Array$Element (2.3)$MWSSCHEM1" "l" "3" "1" "9" ";" "Array$Element (2.4)$MWSSCHEM1" "r" "3" "1" "13" ";" "Array$Element (3.1)$MWSSCHEM1" "l" "4" "1" "2" ";" "Array$Element (3.2)$MWSSCHEM1" "r" "4" "1" "6" ";" "Array$Element (3.3)$MWSSCHEM1" "l" "5" "1" "10" ";" "Array$Element (3.4)$MWSSCHEM1" "r" "5" "1" "14" ";" "Array$Element (4.1)$MWSSCHEM1" "l" "6" "1" "3" ";" "Array$Element (4.2)$MWSSCHEM1" "r" "6" "1" "7" ";" "Array$Element (4.3)$MWSSCHEM1" "l" "7" "1" "11" ";" "Array$Element (4.4)$MWSSCHEM1" "r" "7" "1" "15"
+FloquetPortSourceGroups:
+SchematicPortSourceGroups:
+Number of frequency-points: 16
+Fmin: 1.500000e+09
+Fmax: 3.500000e+09
+Fscale: 1.000000e+09
+
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 16
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 15
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 14
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 13
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 12
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 11
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 10
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 9
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 8
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 7
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 6
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 5
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 4
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 3
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 2
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 1
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+
+
+*** newmonitor
+monname: "Farfield (PAA_FA_FREQ)"
+nmonfrequencies: 1
+monfrequencies: "2.4500000000000002" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=4.45)"
+nmonfrequencies: 1
+monfrequencies: "4.4500000000000002" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=4.5)"
+nmonfrequencies: 1
+monfrequencies: "4.5" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=4.45)"
+nmonfrequencies: 1
+monfrequencies: "4.4500000000000002" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=4.45)"
+nmonfrequencies: 1
+monfrequencies: "4.4500000000000002" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+

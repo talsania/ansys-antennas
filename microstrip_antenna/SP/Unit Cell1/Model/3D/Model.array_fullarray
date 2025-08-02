@@ -1,0 +1,13 @@
+{
+    "Array": {
+        "groups": [],
+        "modelref": 0,
+        "port_mode_info": [
+            "1(1)"
+        ],
+        "radome": "",
+        "radomepos": 1,
+        "subarrays": [],
+        "version": 5
+    }
+}

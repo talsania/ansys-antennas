@@ -1,0 +1,101 @@
+{
+    "parameters": [
+        {
+            "descr": " ",
+            "expr": "c0/frequency_centre",
+            "name": "wavelength_centre",
+            "value": "59.9584916"
+        },
+        {
+            "descr": "Loss tangent of the substrate medium",
+            "expr": "0",
+            "name": "tan_delta",
+            "value": "0"
+        },
+        {
+            "descr": "Substrate height",
+            "expr": "1.6",
+            "name": "substrate_height",
+            "value": "1.6"
+        },
+        {
+            "descr": "Relative permittivity",
+            "expr": "4.3",
+            "name": "relative_permittivity",
+            "value": "4.3"
+        },
+        {
+            "descr": "Patch width",
+            "expr": "18.4161043013047",
+            "name": "patch_width",
+            "value": "18.4161043013047"
+        },
+        {
+            "descr": "Patch length",
+            "expr": "13.6845850872818",
+            "name": "patch_length",
+            "value": "13.6845850872818"
+        },
+        {
+            "descr": " ",
+            "expr": "0.0001*wavelength_centre",
+            "name": "metal_thickness",
+            "value": "0.00599584916"
+        },
+        {
+            "descr": "Matching line width",
+            "expr": "0.174807486310696",
+            "name": "matching_line_width",
+            "value": "0.174807486310696"
+        },
+        {
+            "descr": "Matching line length",
+            "expr": "8.94727077627598",
+            "name": "matching_line_length",
+            "value": "8.94727077627598"
+        },
+        {
+            "descr": " ",
+            "expr": "patch_width*2",
+            "name": "groundplane_width",
+            "value": "36.8322086026094"
+        },
+        {
+            "descr": " ",
+            "expr": "patch_length*3",
+            "name": "groundplane_length",
+            "value": "41.0537552618454"
+        },
+        {
+            "descr": " ",
+            "expr": "patch_length/2 + feed_line_length + matching_line_length - groundplane_length/2",
+            "name": "groundplane_feed_extension",
+            "value": "3.96710370859268"
+        },
+        {
+            "descr": "Centre frequency",
+            "expr": "5",
+            "name": "frequency_centre",
+            "value": "5"
+        },
+        {
+            "descr": "Feed line width",
+            "expr": "0.728763345882085",
+            "name": "feed_line_width",
+            "value": "0.728763345882085"
+        },
+        {
+            "descr": "Feed line length",
+            "expr": "8.7044180195985",
+            "name": "feed_line_length",
+            "value": "8.7044180195985"
+        },
+        {
+            "descr": "Speed of light (corrected for the model units)",
+            "expr": "CLight*1E-06",
+            "name": "c0",
+            "value": "299.792458"
+        }
+    ],
+    "version": 1
+}

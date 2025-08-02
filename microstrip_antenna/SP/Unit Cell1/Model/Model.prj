@@ -1,0 +1,13 @@
+{
+   "Author": "kptal",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Frequency Domain",
+   "Last Solver Type Abb": "f",
+   "Mesh Cells": "",
+   "Mesh Type": "Tetrahedral",
+   "Modeler Unique ID": "5:unit cell1.cst?f777e091c71744698afa96525cedc6e2?22585:numberofparameters=10:port=1>mode=1>zre=0>zim=0:fport=zmin>fmode=1>zre=0>zim=0?fport=zmin>fmode=2>zre=0>zim=0?fport=zmin>fmode=3>zre=0>zim=0?fport=zmin>fmode=4>zre=0>zim=0?fport=zmin>fmode=5>zre=0>zim=0?fport=zmin>fmode=6>zre=0>zim=0?fport=zmin>fmode=7>zre=0>zim=0?fport=zmin>fmode=8>zre=0>zim=0?fport=zmin>fmode=9>zre=0>zim=0?fport=zmin>fmode=10>zre=0>zim=0?fport=zmin>fmode=11>zre=0>zim=0?fport=zmin>fmode=12>zre=0>zim=0?fport=zmin>fmode=13>zre=0>zim=0?fport=zmin>fmode=14>zre=0>zim=0?fport=zmin>fmode=15>zre=0>zim=0?fport=zmin>fmode=16>zre=0>zim=0?fport=zmin>fmode=17>zre=0>zim=0?fport=zmin>fmode=18>zre=0>zim=0?fport=zmax>fmode=1>zre=0>zim=0?fport=zmax>fmode=2>zre=0>zim=0?fport=zmax>fmode=3>zre=0>zim=0?fport=zmax>fmode=4>zre=0>zim=0?fport=zmax>fmode=5>zre=0>zim=0?fport=zmax>fmode=6>zre=0>zim=0?fport=zmax>fmode=7>zre=0>zim=0?fport=zmax>fmode=8>zre=0>zim=0?fport=zmax>fmode=9>zre=0>zim=0?fport=zmax>fmode=10>zre=0>zim=0?fport=zmax>fmode=11>zre=0>zim=0?fport=zmax>fmode=12>zre=0>zim=0?fport=zmax>fmode=13>zre=0>zim=0?fport=zmax>fmode=14>zre=0>zim=0?fport=zmax>fmode=15>zre=0>zim=0?fport=zmax>fmode=16>zre=0>zim=0?fport=zmax>fmode=17>zre=0>zim=0?fport=zmax>fmode=18>zre=0>zim=0:model.mif.sab>d8cc0630615de161029040fd6e3e99fe>67906:paa_uc_phi?paa_uc_theta?paa_uc_angle?paa_uc_ds2?paa_uc_ds1?fi?gp?wf?lf?a",
+   "ProjectVersion": "'# MWS Version: Version 2025.0 - Aug 30 2024 - ACIS 34.0.1 -",
+   "Results": "Unavailable",
+   "Version": "3"
+}

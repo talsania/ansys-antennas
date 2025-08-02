@@ -1,0 +1,26 @@
+{
+    "mapping": [
+        {
+            "master": "a",
+            "sp": "a"
+        },
+        {
+            "master": "fi",
+            "sp": "fi"
+        },
+        {
+            "master": "gp",
+            "sp": "gp"
+        },
+        {
+            "master": "lf",
+            "sp": "lf"
+        },
+        {
+            "master": "wf",
+            "sp": "wf"
+        }
+    ],
+    "pending_renames": null,
+    "version": 2
+}

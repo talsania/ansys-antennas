@@ -1,0 +1,84 @@
+{
+    "parameters": [
+        {
+            "expr": "17.4",
+            "name": "a",
+            "value": "17.4"
+        },
+        {
+            "expr": "14.75",
+            "name": "Lf",
+            "value": "14.75"
+        },
+        {
+            "expr": "3.13",
+            "name": "wf",
+            "value": "3.13"
+        },
+        {
+            "expr": "1.5",
+            "name": "Gp",
+            "value": "1.5"
+        },
+        {
+            "expr": "10",
+            "name": "fi",
+            "value": "10"
+        },
+        {
+            "descr": "Unit cell geometry (System parameter)",
+            "expr": "44.8 * 1",
+            "name": "PAA_UC_DS1",
+            "value": "44.8"
+        },
+        {
+            "descr": "Unit cell geometry (System parameter)",
+            "expr": "54.55 * 1",
+            "name": "PAA_UC_DS2",
+            "value": "54.55"
+        },
+        {
+            "descr": "Unit cell geometry (System parameter)",
+            "expr": "90",
+            "name": "PAA_UC_ANGLE",
+            "value": "90"
+        },
+        {
+            "descr": "Unit cell scan angle (System parameter)",
+            "expr": "0",
+            "name": "PAA_UC_THETA",
+            "value": "0"
+        },
+        {
+            "descr": "Unit cell scan angle (System parameter)",
+            "expr": "0",
+            "name": "PAA_UC_PHI",
+            "value": "0"
+        },
+        {
+            "descr": "Full array scan angle (System parameter)",
+            "expr": "0",
+            "name": "PAA_FA_SCANPHI",
+            "value": "0"
+        },
+        {
+            "descr": "Full array scan angle (System parameter)",
+            "expr": "0",
+            "name": "PAA_FA_SCANTHETA",
+            "value": "0"
+        },
+        {
+            "descr": "Full array operating frequency (System parameter)",
+            "expr": "2.45",
+            "name": "PAA_FA_FREQ",
+            "value": "2.45"
+        },
+        {
+            "descr": "Full array excitation list index (System parameter)",
+            "expr": "1",
+            "name": "PAA_FA_EXCITELIST",
+            "value": "1"
+        }
+    ],
+    "version": 1
+}

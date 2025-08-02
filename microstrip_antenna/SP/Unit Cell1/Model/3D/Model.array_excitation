@@ -1,0 +1,55 @@
+{
+    "Array": {
+        "element_sym_x": 0,
+        "element_sym_y": 0,
+        "elements": [
+            {
+                "index": 5,
+                "portmodes": [
+                    {
+                        "amplitude": "0.80310000000000004",
+                        "modeno": 1,
+                        "phase": "0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(5)) * CosD(PAA_FA_SCANPHI) + (PAAy(5)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI",
+                        "portno": 6
+                    }
+                ]
+            },
+            {
+                "index": 6,
+                "portmodes": [
+                    {
+                        "amplitude": "0.80310000000000004",
+                        "modeno": 1,
+                        "phase": "0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(6)) * CosD(PAA_FA_SCANPHI) + (PAAy(6)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI",
+                        "portno": 7
+                    }
+                ]
+            },
+            {
+                "index": 9,
+                "portmodes": [
+                    {
+                        "amplitude": "0.80310000000000004",
+                        "modeno": 1,
+                        "phase": "0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(9)) * CosD(PAA_FA_SCANPHI) + (PAAy(9)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI",
+                        "portno": 10
+                    }
+                ]
+            },
+            {
+                "index": 10,
+                "portmodes": [
+                    {
+                        "amplitude": "0.80310000000000004",
+                        "modeno": 1,
+                        "phase": "0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(10)) * CosD(PAA_FA_SCANPHI) + (PAAy(10)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI",
+                        "portno": 11
+                    }
+                ]
+            }
+        ],
+        "excitationcommands": "With FDSolver \n    .Stimulation \"6\", \"1\" \n    .ResetExcitationList \n    .AddToExcitationList \"6\", \"1\" \nEnd With \n",
+        "groups": [],
+        "version": 4
+    }
+}

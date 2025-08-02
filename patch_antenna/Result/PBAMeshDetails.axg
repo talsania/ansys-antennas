@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects>
+    <Object name="DDI/Domain_0" id="0">
+      <LineSet points="0 -35.5165024 -16.5956192 33.4057274 -35.5165024 -16.5956192 33.4057274 -35.5165024 29.3896236 0 -35.5165024 29.3896236 0 0.526330173 -16.5956192 33.4057274 0.526330173 -16.5956192 33.4057274 0.526330173 29.3896236 0 0.526330173 29.3896236" lines="0 1 1 2 2 3 3 0 4 5 5 6 6 7 7 4 0 4 1 5 2 6 3 7" material="$ddiColor"/>
+    </Object>
+    <Object name="DDI/Domain_1" id="1">
+      <LineSet points="0 1.57899058 -16.5956192 33.4057274 1.57899058 -16.5956192 33.4057274 1.57899058 29.3896236 0 1.57899058 29.3896236 0 39.4836044 -16.5956192 33.4057274 39.4836044 -16.5956192 33.4057274 39.4836044 29.3896236 0 39.4836044 29.3896236" lines="0 1 1 2 2 3 3 0 4 5 5 6 6 7 7 4 0 4 1 5 2 6 3 7" material="$ddiColor"/>
+    </Object>
+  </Objects>
+  <Materials>
+    <Material name="$ddiColor">
+      <Drawstyle color="0 0 1" transparency="0" linestrength="3"/>
+    </Material>
+    <Material name="$wtPatchColor">
+      <Drawstyle color="0.800000012 1 0" transparency="0" linestrength="3"/>
+    </Material>
+  </Materials>
+  <Groups/>
+</CSTAuxiliaryGeometry>

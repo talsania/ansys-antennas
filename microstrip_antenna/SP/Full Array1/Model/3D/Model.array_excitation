@@ -1,0 +1,55 @@
+{
+    "Array": {
+        "element_sym_x": 0,
+        "element_sym_y": 0,
+        "elements": [
+            {
+                "index": 5,
+                "portmodes": [
+                    {
+                        "amplitude": "0.80310000000000004",
+                        "modeno": 1,
+                        "phase": "0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(5)) * CosD(PAA_FA_SCANPHI) + (PAAy(5)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI",
+                        "portno": 6
+                    }
+                ]
+            },
+            {
+                "index": 6,
+                "portmodes": [
+                    {
+                        "amplitude": "0.80310000000000004",
+                        "modeno": 1,
+                        "phase": "0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(6)) * CosD(PAA_FA_SCANPHI) + (PAAy(6)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI",
+                        "portno": 7
+                    }
+                ]
+            },
+            {
+                "index": 9,
+                "portmodes": [
+                    {
+                        "amplitude": "0.80310000000000004",
+                        "modeno": 1,
+                        "phase": "0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(9)) * CosD(PAA_FA_SCANPHI) + (PAAy(9)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI",
+                        "portno": 10
+                    }
+                ]
+            },
+            {
+                "index": 10,
+                "portmodes": [
+                    {
+                        "amplitude": "0.80310000000000004",
+                        "modeno": 1,
+                        "phase": "0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(10)) * CosD(PAA_FA_SCANPHI) + (PAAy(10)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI",
+                        "portno": 11
+                    }
+                ]
+            }
+        ],
+        "excitationcommands": "With PhasedAntennaArray \n    .FullArrayExcitationType \"Simultaneous\"\n    .ElementExcitationType \"Individual\"\n    .PhaseShiftsAsTimeDelays \"False\"\nEnd With \nWith CombineResults \n    .Reset \n    .SetLabel \"Array Scanning1\" \n    .SetOffsetType \"Phase\" \n    .SetReferenceFrequency \"PAA_FA_FREQ\" \n    .SetExcitationValues \"port\", \"6\", \"1\", \"AA_Amplitude (5, 6, 1)\", \"AA_Phase (5, 6, 1)\" \n    .SetExcitationValues \"port\", \"7\", \"1\", \"AA_Amplitude (6, 7, 1)\", \"AA_Phase (6, 7, 1)\" \n    .SetExcitationValues \"port\", \"10\", \"1\", \"AA_Amplitude (9, 10, 1)\", \"AA_Phase (9, 10, 1)\" \n    .SetExcitationValues \"port\", \"11\", \"1\", \"AA_Amplitude (10, 11, 1)\", \"AA_Phase (10, 11, 1)\" \n    .AddToExcitationList \nEnd With \nWith Solver \n    .StimulationPort \"Selected\"\n    .StimulationMode \"All\" \n    .ResetExcitationModes \n    .SParameterPortExcitation \"True\" \n    .SimultaneousExcitation \"False\" \n    .ActivateExcitation \"Simultaneous\", \"Array Scanning1\", \"1\", \"True\" \nEnd With \nWith FDSolver \n    .Stimulation \"List\", \"List\" \n    .ResetExcitationList \n    .AddToExcitationList \"Simultaneous\", \"Array Scanning1\" \nEnd With \n",
+        "groups": [],
+        "version": 4
+    }
+}

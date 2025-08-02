@@ -1,0 +1,73 @@
+@CACHEFILEVERSION 2
+@DOUBLE
+-22.4
+-22.4
+-32.15
+-32.15
+0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(10)) * CosD(PAA_FA_SCANPHI) + (PAAy(10)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI
+0
+0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(5)) * CosD(PAA_FA_SCANPHI) + (PAAy(5)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI
+0
+0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(6)) * CosD(PAA_FA_SCANPHI) + (PAAy(6)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI
+0
+0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(9)) * CosD(PAA_FA_SCANPHI) + (PAAy(9)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI
+0
+0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_UC_THETA) * ((PAAx(10)) * CosD(PAA_UC_PHI) + (PAAy(10)) * SinD(PAA_UC_PHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI
+0
+0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_UC_THETA) * ((PAAx(5)) * CosD(PAA_UC_PHI) + (PAAy(5)) * SinD(PAA_UC_PHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI
+0
+0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_UC_THETA) * ((PAAx(6)) * CosD(PAA_UC_PHI) + (PAAy(6)) * SinD(PAA_UC_PHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI
+0
+0 - 360.0 * PAA_FA_FREQ / clight * SinD(PAA_UC_THETA) * ((PAAx(9)) * CosD(PAA_UC_PHI) + (PAAy(9)) * SinD(PAA_UC_PHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI
+0
+0.8031
+0.8031
+0.80310000000000004
+0.80310000000000004
+10
+10
+12.581999999999999
+12.581999999999999
+156.8
+156.8
+186.05
+186.05
+2.45
+2.45
+50
+50
+AA_Amplitude (10, 11, 1)
+0.8031
+AA_Amplitude (5, 6, 1)
+0.8031
+AA_Amplitude (6, 7, 1)
+0.8031
+AA_Amplitude (9, 10, 1)
+0.8031
+AA_Phase (10, 11, 1)
+0
+AA_Phase (5, 6, 1)
+0
+AA_Phase (6, 7, 1)
+0
+AA_Phase (9, 10, 1)
+0
+PAA_FA_FREQ
+2.45
+@LONG
+-40
+-40
+1
+1
+10
+10
+11
+11
+5
+5
+6
+6
+7
+7
+9
+9

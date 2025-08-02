@@ -1,0 +1,64 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "tan_delta",
+         "type": "float",
+         "value": 0.0
+      },
+      {
+         "name": "substrate_height",
+         "type": "float",
+         "value": 1.6
+      },
+      {
+         "name": "relative_permittivity",
+         "type": "float",
+         "value": 4.3
+      },
+      {
+         "name": "patch_width",
+         "type": "float",
+         "value": 18.4161043013047
+      },
+      {
+         "name": "patch_length",
+         "type": "float",
+         "value": 13.6845850872818
+      },
+      {
+         "name": "matching_line_width",
+         "type": "float",
+         "value": 0.174807486310696
+      },
+      {
+         "name": "matching_line_length",
+         "type": "float",
+         "value": 8.94727077627598
+      },
+      {
+         "name": "frequency_centre",
+         "type": "float",
+         "value": 5.0
+      },
+      {
+         "name": "feed_line_width",
+         "type": "float",
+         "value": 0.728763345882085
+      },
+      {
+         "name": "feed_line_length",
+         "type": "float",
+         "value": 8.7044180195985
+      },
+      {
+         "name": "c0",
+         "type": "string",
+         "value": "CLight*1E-06"
+      }
+   ],
+   "outputVariables": []
+}

@@ -1,0 +1,13 @@
+{
+   "Author": "kptal",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Time Domain",
+   "Last Solver Type Abb": "t",
+   "Mesh Cells": "",
+   "Mesh Type": "Hexahedral",
+   "Modeler Unique ID": "5:full array1.cst?d04a8064865c52c69b1e316b51327696?20725:numberofparameters=9:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0?port=3>mode=1>zre=0>zim=0?port=4>mode=1>zre=0>zim=0?port=5>mode=1>zre=0>zim=0?port=6>mode=1>zre=0>zim=0?port=7>mode=1>zre=0>zim=0?port=8>mode=1>zre=0>zim=0?port=9>mode=1>zre=0>zim=0?port=10>mode=1>zre=0>zim=0?port=11>mode=1>zre=0>zim=0?port=12>mode=1>zre=0>zim=0?port=13>mode=1>zre=0>zim=0?port=14>mode=1>zre=0>zim=0?port=15>mode=1>zre=0>zim=0?port=16>mode=1>zre=0>zim=0::model.mif.sab>d8cc0630615de161029040fd6e3e99fe>67906:paa_fa_freq?paa_uc_angle?paa_uc_ds2?paa_uc_ds1?fi?gp?wf?lf?a",
+   "ProjectVersion": "'# MWS Version: Version 2025.0 - Aug 30 2024 - ACIS 34.0.1 -",
+   "Results": "Unavailable",
+   "Version": "3"
+}

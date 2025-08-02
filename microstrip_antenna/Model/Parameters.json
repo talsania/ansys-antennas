@@ -1,0 +1,30 @@
+{
+    "parameters": [
+        {
+            "expr": "17.4",
+            "name": "a",
+            "value": "17.4"
+        },
+        {
+            "expr": "14.75",
+            "name": "Lf",
+            "value": "14.75"
+        },
+        {
+            "expr": "3.13",
+            "name": "wf",
+            "value": "3.13"
+        },
+        {
+            "expr": "1.5",
+            "name": "Gp",
+            "value": "1.5"
+        },
+        {
+            "expr": "10",
+            "name": "fi",
+            "value": "10"
+        }
+    ],
+    "version": 1
+}

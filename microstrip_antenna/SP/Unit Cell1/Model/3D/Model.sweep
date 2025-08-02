@@ -1,0 +1,32 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Frequency",
+            "skip existing combinations": "false",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Scanning": [
+                {
+                    "from": "-90",
+                    "step width": "10",
+                    "to": "90",
+                    "type": "linear",
+                    "varname": "PAA_UC_PHI"
+                },
+                {
+                    "from": "-60",
+                    "step width": "10",
+                    "to": "60",
+                    "type": "linear",
+                    "varname": "PAA_UC_THETA"
+                },
+                {
+                    "index": 1
+                }
+            ]
+        },
+        "version": 1
+    }
+}
